@@ -1,0 +1,27 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/.cache": true,
+    "**/.DS_Store": true,
+    "**/.editorconfig": false,
+    "**/.eslintcache": true,
+    "**/.git": true,
+    "**/.gitattributes": false,
+    "**/.husky": false,
+    "**/.pnp.*": false,
+    "**/.prettierignore": false,
+    "**/node_modules": false,
+    "**/yarn.lock": false
+  },
+  "search.exclude": {
+    "**/dist/": true,
+    "**/.pnp.*": true,
+    "**/.yarn": true,
+    "**/yarn-error.log": true,
+    "**/yarn.lock": true
+  }
+}
